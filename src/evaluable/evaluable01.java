@@ -43,6 +43,7 @@ public class evaluable01 extends JFrame {
             }
         });
     }
+    
 
    
     public evaluable01() {
