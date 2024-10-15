@@ -44,6 +44,7 @@ public class evaluable01 extends JFrame {
         });
     }
 
+   
     public evaluable01() {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setBounds(100, 100, 804, 528);
@@ -170,6 +171,7 @@ public class evaluable01 extends JFrame {
         }
     }
 
+    
     /**
      * Converteix la mida d'un fitxer de bytes a kilobytes amb una precisió d'una xifra decimal.
      *
